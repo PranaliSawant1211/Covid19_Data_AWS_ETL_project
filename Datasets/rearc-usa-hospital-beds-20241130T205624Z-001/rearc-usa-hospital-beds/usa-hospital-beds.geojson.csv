@@ -1,0 +1,4 @@
+latitude,longitude,altitude,geometry,name,category
+39.984,-75.343,,Point,Location A,Store
+40.12,-80.24,,Point,Location B,House
+41.427,-77.2,,Point,Location C,Office
